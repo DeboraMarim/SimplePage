@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://o-jogo-one.vercel.app/sitemap.xml
